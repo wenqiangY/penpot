@@ -1,3 +1,5 @@
+disabled: true
+
 name: STAGING - Build Bundle and Docker Image
 
 on:
